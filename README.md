@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GamerEmzy01
 - 👀 I’m interested in making of game mod menu
 - 🌱 I’m currently learning java and more about making of mod menu
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/emzyop
 
 <!---
